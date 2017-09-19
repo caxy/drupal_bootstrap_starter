@@ -1,63 +1,10 @@
-DiscoverDesign.org was developed for the Chicago Architecture Foundation <http://www.architecture.org> by
-Caxy <https://www.caxy.com> betwee April and August 2016.
+Caxy's Drupal Bootstrap Starter Kit
 
-/** Team */
 
-Client: Edgar "Edge" Quintanilla
-Title: Manager of DiscoverDesign.org
-Organization: Chicago Architecture Foundation
+/** Caxy's Drupal Team */
 
-Client: Gina Grant
-Title: Senior Manager of Digital Engagement
-Organization: Chicago Architecture Foundation
+J.D. Flynn
+Josh Thorne
+Ben Rathbone
 
-Project Manager: Rosamund Lannin
-Organization: Caxy
 
-Front End Developer: Beck Kramer
-Organization: Caxy
-
-User Experience Designer: Liz Composto
-Organization: Caxy
-
-Lead Designer: Liana Butkūnaitė
-Organization: Caxy
-
-UX: Salvatore Camarda
-Organization: Caxy
-Location: Chicago, Illinois
-
-Site Builder: Luke Javor
-Organization: Caxy
-
-Lead Developer: Benjamin Doherty
-aka: bangpound (!&#)
-Organization: Caxy
-Location: Chicago, Illinois
-
-/** Open Source outputs */
-
-Tattoo Module <https://github.com/caxy/tattoo-module> encodes Drupal 8 entities within
-the body of pages so AngularJS can avoid requesting them in followup HTTP requests.
-
-Drupal Console Logging Middleware <https://github.com/caxy/drupal-console-logging-middleware>
-for exposing HTTP request data and Drupal log messages in the console during development.
-
-Block Page Layout module <https://github.com/caxy/blockpagelayout-module> supports user
-dashboards on this project. It was forked from <https://www.drupal.org/project/layout_plugin>.
-
-Public School API <https://github.com/caxy/public-school-api> provides autocomplete names
-for U.S. public schools and demographic data to support evaluation of the DiscoverDesign.org
-project.
-
-BadgeKit Client <https://github.com/caxy/badgekit-client> is a PHP client for the Mozilla
-BadgeKit API. This was not used in the final product.
-
-City of Learning Client <https://github.com/caxy/cityoflearning-client> is a PHP client
-for the Chicago City of Learning <https://chicagocityoflearning.org> badging platform.
-
-/** Site */
-Last update: 19 September 2016
-Standards: HTML5, CSS3,..
-Components: AngularJS
-Software: Drupal 8, Symfony, PHP
